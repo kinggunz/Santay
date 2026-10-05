@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gunz Touch</string>
+    <string name="acc_desc">Mendeteksi game yang dibuka agar overlay Gunz Touch (crosshair &amp; menu sensi) muncul otomatis.</string>
+</resources>
